@@ -7,7 +7,7 @@ public class Game extends Input {
 
 		System.out.println("You wake up in a foggy swamp, with only the moon for light. \r\n"
 				+ "You have no idea where you are suppose to go.\r\n"
-				+ "In the corner of your eye you see a small object in the mud that glitens in the moonlight.\r\n"
+				+ "In the corner of your eye you see a small object in the mud that glistens in the moonlight.\r\n"
 				+ "You go to pick it up, it appears to be a compass...");
 
 		System.out.println(" ");
